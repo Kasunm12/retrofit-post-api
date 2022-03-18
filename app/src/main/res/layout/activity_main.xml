@@ -7,7 +7,7 @@
     tools:context=".MainActivity">
 
     <Button
-        android:id="@+id/Send_Post_Request_Button"
+        android:id="@+id/btnSendPostRequest"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Send Post Request!"
